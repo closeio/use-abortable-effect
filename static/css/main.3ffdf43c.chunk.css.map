@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,cAAe,CACf,sBAAuB,CACvB,YAAa,CACb,sBAAuB,CACvB,iBACF","file":"main.3ffdf43c.chunk.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0 20px;\n  font-family: sans-serif;\n  display: flex;\n  justify-content: center;\n  text-align: center;\n}\n"]}
