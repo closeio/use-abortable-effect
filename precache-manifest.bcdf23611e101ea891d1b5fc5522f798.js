@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7a4a066af5559017498a19aeea91915",
+    "revision": "fc86f986424bb6bbb6b4af3b92136e3e",
     "url": "/use-abortable-effect/index.html"
   },
   {
-    "revision": "3af9cecada464e987cb8",
+    "revision": "8f300b3ea80185a2411f",
     "url": "/use-abortable-effect/static/css/main.3ffdf43c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/use-abortable-effect/static/js/2.4ab3e9c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3af9cecada464e987cb8",
-    "url": "/use-abortable-effect/static/js/main.f3fa92e5.chunk.js"
+    "revision": "8f300b3ea80185a2411f",
+    "url": "/use-abortable-effect/static/js/main.761d7b7e.chunk.js"
   },
   {
     "revision": "7fe0e5bed26a54aa5da3",

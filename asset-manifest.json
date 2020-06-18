@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/use-abortable-effect/static/css/main.3ffdf43c.chunk.css",
-    "main.js": "/use-abortable-effect/static/js/main.f3fa92e5.chunk.js",
-    "main.js.map": "/use-abortable-effect/static/js/main.f3fa92e5.chunk.js.map",
+    "main.js": "/use-abortable-effect/static/js/main.761d7b7e.chunk.js",
+    "main.js.map": "/use-abortable-effect/static/js/main.761d7b7e.chunk.js.map",
     "runtime-main.js": "/use-abortable-effect/static/js/runtime-main.666c3ea7.js",
     "runtime-main.js.map": "/use-abortable-effect/static/js/runtime-main.666c3ea7.js.map",
     "static/js/2.4ab3e9c7.chunk.js": "/use-abortable-effect/static/js/2.4ab3e9c7.chunk.js",
     "static/js/2.4ab3e9c7.chunk.js.map": "/use-abortable-effect/static/js/2.4ab3e9c7.chunk.js.map",
     "index.html": "/use-abortable-effect/index.html",
-    "precache-manifest.2995e26f1e0cb921c4b3a2b7212cbb06.js": "/use-abortable-effect/precache-manifest.2995e26f1e0cb921c4b3a2b7212cbb06.js",
+    "precache-manifest.bcdf23611e101ea891d1b5fc5522f798.js": "/use-abortable-effect/precache-manifest.bcdf23611e101ea891d1b5fc5522f798.js",
     "service-worker.js": "/use-abortable-effect/service-worker.js",
     "static/css/main.3ffdf43c.chunk.css.map": "/use-abortable-effect/static/css/main.3ffdf43c.chunk.css.map",
     "static/js/2.4ab3e9c7.chunk.js.LICENSE.txt": "/use-abortable-effect/static/js/2.4ab3e9c7.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.666c3ea7.js",
     "static/js/2.4ab3e9c7.chunk.js",
     "static/css/main.3ffdf43c.chunk.css",
-    "static/js/main.f3fa92e5.chunk.js"
+    "static/js/main.761d7b7e.chunk.js"
   ]
 }

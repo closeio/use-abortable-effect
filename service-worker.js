@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/use-abortable-effect/precache-manifest.2995e26f1e0cb921c4b3a2b7212cbb06.js"
+  "/use-abortable-effect/precache-manifest.bcdf23611e101ea891d1b5fc5522f798.js"
 );
 
 self.addEventListener('message', (event) => {
