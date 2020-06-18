@@ -1,0 +1,29 @@
+{
+  "name": "use-abortable-effect-example",
+  "homepage": "https://closeio.github.io/use-abortable-effect",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@closeio/use-abortable-effect": "./..",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.2.0"
+  },
+  "resolutions": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "prepare": "yarn build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
